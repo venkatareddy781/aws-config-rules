@@ -1,0 +1,12 @@
+{
+  "Version": "1.0",
+  "Parameters": {
+    "RuleName": "S3_OBJECT_LOCK_ENABLED",
+    "SourceRuntime": "python3.6-lib",
+    "CodeKey": "S3_OBJECT_LOCK_ENABLED.zip",
+    "InputParameters": "{}",
+    "OptionalParameters": "{}",
+    "SourcePeriodic": "TwentyFour_Hours"
+  },
+  "Tags": "[]"
+}
